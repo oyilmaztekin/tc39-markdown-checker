@@ -1,0 +1,9 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "a script that tracks changes of proposal status",
+  "main": "index.js",
+  "repository": "https://github.com/oyilmaztekin/tc39-status.git",
+  "author": "özer yılmaztekin",
+  "license": "MIT"
+}
