@@ -1,9 +1,13 @@
 {
-  "name": "status",
+  "name": "markdownChecker",
   "version": "1.0.0",
   "description": "a script that tracks changes of proposal status",
   "main": "index.js",
   "repository": "https://github.com/oyilmaztekin/tc39-status.git",
   "author": "özer yılmaztekin",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "remark-parse": "^6.0.3",
+    "unified": "^7.1.0"
+  }
 }
