@@ -14,5 +14,4 @@ const tableStage1 = generateTable(
   "stage1",
   collectedLinkDefinitions
 );
-
 // create a json file based on the constructed object
