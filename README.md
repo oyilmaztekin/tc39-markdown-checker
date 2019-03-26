@@ -52,7 +52,6 @@ This list contains only stage 1 proposals and higher that have not yet been with
 | Proposal                                                                                     | Author                                                | Champion                                               | <sub>Last Presented</sub>                                         |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
 | [`export v from "mod";` statements][export-from]                                             | Lee Byron                                             | Ben Newman<br />John-David Dalton                      | <sub>[July&nbsp;2017][export-from-notes]</sub>                    |
-| Generator arrow functions (`=>*`) Change `Number.parseInt`/`parseFloat` to not coerce `null`/`undefined`/`NaN` (repo link TBD)                                                            |                                                       | Brendan Eich<br />Domenic Denicola                     | <sub>[September&nbsp;2016][generator-arrow-functions-notes]</sub> |
 
 :white_check_mark: means a pull request for tests was merged.
 
